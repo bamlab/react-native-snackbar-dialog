@@ -1,5 +1,5 @@
 import React from 'react'
-import RootSiblings from 'react-native-root-siblings'
+import RootSiblings from '@bam.tech/react-native-root-siblings'
 
 import type { SnackItemType } from './type'
 import SnackBar from './SnackBar'
