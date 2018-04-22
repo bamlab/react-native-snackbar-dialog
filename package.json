@@ -28,19 +28,6 @@
   "bugs": {
     "url": "https://github.com/9gag-open-source/react-native-snackbar-dialog/issues"
   },
-  "babel": {
-    "presets": [
-      "es2016",
-      "react-native"
-    ],
-    "env": {
-      "development": {
-        "plugins": [
-          "flow-react-proptypes"
-        ]
-      }
-    }
-  },
   "standard": {
     "parser": "babel-eslint",
     "globals": [
